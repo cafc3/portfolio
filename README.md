@@ -13,7 +13,7 @@ Descrição: Website feito em PHP/HTML, CSS e JS, com ligação a BD SqlServer/P
 
 ## 📱 Projeto AD - Arquivo Digital
 ![Print do projeto AD](https://github.com/cafc3/portfolio/blob/main/AD2.PNG)
-Descrição: Website feito em PHP/HTML, CSS e JS, com ligação a BD SqlServer/Progress. Processamento de Documentos em C#. Macro VBA Outlook p/Envio de Documentos para AD.
+Descrição: Website feito em PHP/HTML, CSS e JS, com ligação a BD SqlServer/Progress. Processamento de Documentos em C# (OCR). Macro VBA Outlook p/Envio de Documentos para AD.
 
 ## 📱 Projeto SR - Consulta Stock Remoto
 ![Print do projeto AD](https://github.com/cafc3/portfolio/blob/main/SR.PNG)
