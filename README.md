@@ -6,3 +6,7 @@ Aqui estão alguns dos projetos em que trabalhei.
 Descrição: Website feito em PHP/HTML, CSS e JS, com integração com API de produtos.
 
 🔗 [B2B](https://b2b.anasousa.com/public/?a=login)
+
+---
+
+## 📱 Projeto GT - App de Gestão de Encomendas LO
