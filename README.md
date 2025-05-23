@@ -42,4 +42,6 @@ Leitor de Códigos de Barras - Android/Java
 ETL/DataMart + Qlikview  
 POWERBI  
 Marketing Automation - c/ Recomendação de Produtos  
+Rotinas de Alerta via mail  
+Kanban - Implementação do Kanboard  
 
