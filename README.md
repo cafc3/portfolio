@@ -39,4 +39,7 @@ Visualizador Saft - C#
 ETL com integração API - C#   
 Catalogar Artigos - VB.NET  
 Leitor de Códigos de Barras - Android/Java  
+ETL/DataMart + Qlikview
+POWERBI
+Marketing Automation - c/ Recomendação de Produtos  
 
