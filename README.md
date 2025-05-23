@@ -1,7 +1,7 @@
 # Meu Portfólio
 Aqui estão alguns dos projetos em que trabalhei.
 
-## 🖥 Projeto B2B - Website para Clientes B2B - Visualizar catologos Coleções & Encomendas
+## 🖥 Projeto B2B - Website para Clientes B2B - Visualizar catálogos Coleções & Encomendas
 ![Print do projeto B2B](https://github.com/cafc3/portfolio/blob/main/B2B2.PNG)
 Descrição: Website feito em PHP/HTML, CSS e JS, com integração com API de produtos.
 
