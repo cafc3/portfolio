@@ -18,3 +18,7 @@ Descrição: Website feito em PHP/HTML, CSS e JS, com ligação a BD SqlServer/P
 ## 📱 Projeto SR - Consulta Stock Remoto
 ![Print do projeto AD](https://github.com/cafc3/portfolio/blob/main/SR.PNG)
 Descrição: Website feito em PHP/HTML, CSS e JS, com ligação a BD SqlServer/Progress.
+
+## 📱 Projeto IF - Consulta Informção Interna Retalho
+![Print do projeto IF](https://github.com/cafc3/portfolio/blob/main/SR.PNG)
+Descrição: Website feito em PHP/HTML, CSS e JS, com ligação a BD SqlServer/Progress.
