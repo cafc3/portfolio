@@ -30,3 +30,6 @@ Descrição: Website feito em PHP/HTML, CSS e JS, com ligação a BD SqlServer/P
 
 ## 📱 Outros Projectos
 Descrição: 
+Visualizador Saft - C#
+ETL com integração API - C# 
+Catalogar Artigos - VB.NET
