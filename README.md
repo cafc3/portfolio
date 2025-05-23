@@ -14,4 +14,4 @@ Descrição: Website feito em PHP/HTML, CSS e JS, com integração com API de pr
 Descrição: Website feito em PHP/HTML, CSS e JS, com ligação a BD SqlServer/Progress.
 
 ## 📱 Projeto AD - Arquivo Digital
-![Print do projeto AD](imagens/loja1.png)
+![Print do projeto AD](https://github.com/cafc3/portfolio/blob/main/AD2.PNG)
