@@ -7,12 +7,14 @@ Descrição: Website feito em PHP/HTML, CSS e JS, com integração com API de pr
 
 🔗 [B2B](https://b2b.anasousa.com/public/?a=login)
 
----
-
-## 📱 Projeto GT - App de Gestão de Encomendas LO
+## 📱 Projeto GP - App de Gestão de Encomendas LO
 ![Print do projeto 1](https://github.com/cafc3/portfolio/blob/main/GP1.PNG)
 Descrição: Website feito em PHP/HTML, CSS e JS, com ligação a BD SqlServer/Progress.
 
 ## 📱 Projeto AD - Arquivo Digital
 ![Print do projeto AD](https://github.com/cafc3/portfolio/blob/main/AD2.PNG)
 Descrição: Website feito em PHP/HTML, CSS e JS, com ligação a BD SqlServer/Progress. Processamento de Documentos em C#. Macro VBA Outlook p/Envio de Documentos para AD.
+
+## 📱 Projeto SR - Consulta Stock Remoto
+![Print do projeto AD](https://github.com/cafc3/portfolio/blob/main/AD2.PNG)
+Descrição: Website feito em PHP/HTML, CSS e JS, com ligação a BD SqlServer/Progress.
