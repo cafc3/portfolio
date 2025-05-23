@@ -19,6 +19,10 @@ Descrição: Website feito em PHP/HTML, CSS e JS, com ligação a BD SqlServer/P
 ![Print do projeto AD](https://github.com/cafc3/portfolio/blob/main/SR.PNG)
 Descrição: Website feito em PHP/HTML, CSS e JS, com ligação a BD SqlServer/Progress.
 
+## 📱 Projeto AM - Registo Tempos Amostras
+![Print do projeto AD](https://github.com/cafc3/portfolio/blob/main/SR.PNG)
+Descrição: Website feito em PHP/HTML, CSS e JS, com ligação a BD SqlServer/Progress.
+
 ## 📱 Projeto IF - Consulta Informação Interna - Retalho
 ![Print do projeto IF](https://github.com/cafc3/portfolio/blob/main/GII.PNG)
 ![Print do projeto IF](https://github.com/cafc3/portfolio/blob/main/GII2.PNG)
