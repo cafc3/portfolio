@@ -30,8 +30,8 @@ Descrição: Website feito em PHP/HTML, CSS e JS, com ligação a BD SqlServer/P
 Descrição: Website feito em PHP/HTML, CSS e JS, com ligação a BD SqlServer/Progress.
 
 ## 📱 Projeto Site - www.flordamda.pt
-🔗 [www](https://www.flordamoda.pt)
-Descrição: Website feito em PHP/HTML, CSS e JS, com ligação a BD SqlServer/Progress.
+![Print do projeto Site](https://github.com/cafc3/portfolio/blob/main/FM.PNG)
+Descrição: Website feito em PHP/HTML, CSS e JS.
 
 ## 📱 Outros Projectos
 Descrição:  
