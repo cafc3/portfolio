@@ -10,4 +10,4 @@ Descrição: Website feito em PHP/HTML, CSS e JS, com integração com API de pr
 ---
 
 ## 📱 Projeto GT - App de Gestão de Encomendas LO
-![Print do projeto 1](imagens/loja1.png)
+![Print do projeto 1](https://github.com/cafc3/portfolio/blob/main/GP1.PNG)
